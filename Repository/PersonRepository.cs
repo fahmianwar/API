@@ -73,13 +73,30 @@ namespace API.Repository
             */
             try
             {
+                // Semua data ke ubah
                 //conn.Entry(person).State = EntityState.Modified;
                 //conn.Attach(person);
+
+                // Data berubah sesuai atribut yang terisi
+                if(person.FirstName != null) { 
                 conn.Entry(person).Property("FirstName").IsModified = true;
-                conn.Entry(person).Property("LastName").IsModified = true;
-                conn.Entry(person).Property("Phone").IsModified = true;
-                conn.Entry(person).Property("Salary").IsModified = true;
-                conn.Entry(person).Property("Email").IsModified = true;
+                }
+                if (person.LastName != null)
+                {
+                    conn.Entry(person).Property("LastName").IsModified = true;
+                }
+                if (person.Phone != null)
+                {
+                    conn.Entry(person).Property("Phone").IsModified = true;
+                }
+                if (person.Salary > 0)
+                {
+                    conn.Entry(person).Property("Salary").IsModified = true;
+                }
+                if (person.Email != null)
+                {
+                    conn.Entry(person).Property("Email").IsModified = true;
+                }
                 int result = conn.SaveChanges();
                 return result;
             }
