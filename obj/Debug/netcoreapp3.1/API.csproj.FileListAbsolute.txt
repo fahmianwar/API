@@ -1,0 +1,126 @@
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\API.exe
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\API.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24 Mei 2021\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\API.exe
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\API.deps.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\API.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\API.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.dll
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\Projects\Metrodata Coding Camp (MCC)\Mei 2021\24\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
