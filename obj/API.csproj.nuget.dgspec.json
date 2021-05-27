@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\24\\API\\API.csproj": {}
+    "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\27\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\24\\API\\API.csproj": {
+    "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\27\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\24\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\27\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\24\\API\\API.csproj",
+        "projectPath": "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\27\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Fahmi\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\24\\API\\obj\\",
+        "outputPath": "D:\\Projects\\Metrodata Coding Camp (MCC)\\Mei 2021\\27\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fahmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
