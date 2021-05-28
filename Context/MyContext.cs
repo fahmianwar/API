@@ -31,13 +31,13 @@ namespace API.Context
             .WithOne(p => p.Account)
             .HasForeignKey<Profiling>(p => p.NIK);
 
-            modelBuilder.Entity<Education>()
-            .HasMany(p => p.Profiling)
-            .WithOne(e => e.Education);
+            modelBuilder.Entity<Profiling>()
+            .HasOne(p => p.Education)
+            .WithMany(e => e.Profiling);
 
-            modelBuilder.Entity<University>()
-           .HasMany(a => a.Education)
-           .WithOne(p => p.University);
+            modelBuilder.Entity<Education>()
+           .HasOne(a => a.University)
+           .WithMany(p => p.Education);
         }
     }
 }
