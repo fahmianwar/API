@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace API.Models
 {
@@ -13,9 +11,11 @@ namespace API.Models
         [Key]
         //[ForeignKey("Person")]
         public int NIK { get; set; }
+        [JsonIgnore]
         public string Password { get; set; }
 
         public virtual Person Person { get; set; }
         public virtual Profiling Profiling { get; set; }
+        public virtual ICollection<AccountRole> AccountRole { get; set; }
     }
 }

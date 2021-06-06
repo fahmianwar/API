@@ -1,11 +1,9 @@
 ﻿using API.Context;
 using API.Models;
 using API.Repository.Interface;
-using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace API.Repository
 {
@@ -78,7 +76,8 @@ namespace API.Repository
                 //conn.Attach(person);
 
                 // Data berubah sesuai atribut yang terisi
-                if(person.FirstName != null) { 
+                if (person.FirstName != null)
+                {
                     conn.Entry(person).Property("FirstName").IsModified = true;
                 }
                 if (person.LastName != null)
@@ -106,7 +105,7 @@ namespace API.Repository
                 return 0;
             }
 
-            
+
         }
     }
 }

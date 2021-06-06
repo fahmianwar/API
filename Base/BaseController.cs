@@ -1,19 +1,21 @@
 ﻿using API.Repository.Interface;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace API.Base
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BaseController<Entity, Repository, Key> : ControllerBase where Entity:class where Repository : IRepository<Entity, Key>
+    public class BaseController<Entity, Repository, Key> : ControllerBase where Entity : class where Repository : IRepository<Entity, Key>
     {
         private readonly Repository repository;
-
+        /*
+        public EducationRepository educationRepository;
+        public UniversityRepository universityRepository;
+        public PersonRepository personRepository;
+        public ProfilingRepository profilingRepository;
+        public AccountRepository accountRepository;
+        */
         public BaseController(Repository repository)
         {
             this.repository = repository;
@@ -23,7 +25,7 @@ namespace API.Base
         public ActionResult<Entity> Get()
         {
             var get = repository.Get();
-            if(get.Count() > 0)
+            if (get.Count() > 0)
             {
                 return Ok(get);
             }
